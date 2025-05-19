@@ -1,4 +1,4 @@
-**Methodology**
+**Methodology**  
 This project employs a hybrid study design that combines retrospective data analysis with prospective cohort recruitment to develop and validate a DL-based PGx model for predicting lithium response in individuals with BD. Our objective is to integrate genomics, epigenomics, transcriptomics, and clinical data to build a predictive model that classifies lithium responders and yields interpretable biological insights.
 
 **1. Study Design Overview**
