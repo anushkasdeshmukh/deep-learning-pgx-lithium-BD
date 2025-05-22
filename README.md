@@ -12,7 +12,7 @@ This project outlines a proposed hybrid study to develop and validate a deep lea
 ## Included Files
 
 - `methodology/rewritten_methodology_by_anushka.md`: Full study design (937 words)
-- `figures/Study_Visuals.pdf`: Contains Figure 1 (Timeline Schematic) and Table 1 (Methodology Summary)
+- `figures/Figures_draft3.pdf`: Contains Figure 1 (Timeline Schematic) and Table 1 (Methodology Summary)
 
 ## Future Directions
 
